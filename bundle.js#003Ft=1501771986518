@@ -13685,8 +13685,8 @@
     }, t.default = S, e.exports = t.default
 }, function(e, t) {}, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-logo-8a520",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-logo-8a520",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-logo-8a520",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-logo-8a520",
         viewBox: "0 0 18 114",
         toString: function() {
             return this.view
@@ -13694,8 +13694,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-minder-5a2b0",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-minder-5a2b0",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-minder-5a2b0",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-minder-5a2b0",
         viewBox: "0 0 34 42",
         toString: function() {
             return this.view
@@ -13703,8 +13703,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-hamburger-77512",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-hamburger-77512",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-hamburger-77512",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-hamburger-77512",
         viewBox: "0 0 34 26",
         toString: function() {
             return this.view
@@ -13712,8 +13712,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-hamburger-mobile-ee35a",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-hamburger-mobile-ee35a",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-hamburger-mobile-ee35a",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-hamburger-mobile-ee35a",
         viewBox: "0 0 34 26",
         toString: function() {
             return this.view
@@ -13721,8 +13721,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-hamburger-0d517",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-hamburger-0d517",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-hamburger-0d517",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-hamburger-0d517",
         viewBox: "0 0 30 30",
         toString: function() {
             return this.view
@@ -23747,8 +23747,8 @@
     }, t.default = u, e.exports = t.default
 }, 384, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-noths-white-6b41d",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-noths-white-6b41d",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-noths-white-6b41d",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-noths-white-6b41d",
         viewBox: "0 0 144 96",
         toString: function() {
             return this.view
@@ -23756,8 +23756,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-nuface-white-3a1b6",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-nuface-white-3a1b6",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-nuface-white-3a1b6",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-nuface-white-3a1b6",
         viewBox: "0 0 192 96",
         toString: function() {
             return this.view
@@ -24611,8 +24611,8 @@
     e.exports = n
 }, 384, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-iris-05d7b",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-iris-05d7b",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-iris-05d7b",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-iris-05d7b",
         viewBox: "0 0 144 96",
         toString: function() {
             return this.view
@@ -24620,8 +24620,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-ithr-c2ba1",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-ithr-c2ba1",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-ithr-c2ba1",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-ithr-c2ba1",
         viewBox: "0 0 192 96",
         toString: function() {
             return this.view
@@ -24629,8 +24629,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-meresecure-829fd",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-meresecure-829fd",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-meresecure-829fd",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-meresecure-829fd",
         viewBox: "0 0 192 96",
         toString: function() {
             return this.view
@@ -24638,8 +24638,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-nap-24210",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-nap-24210",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-nap-24210",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-nap-24210",
         viewBox: "0 0 279 96",
         toString: function() {
             return this.view
@@ -24647,8 +24647,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-nuface-4f0a4",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-nuface-4f0a4",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-nuface-4f0a4",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-nuface-4f0a4",
         viewBox: "0 0 192 96",
         toString: function() {
             return this.view
@@ -24656,8 +24656,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-noths-c7ef6",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-noths-c7ef6",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-noths-c7ef6",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-noths-c7ef6",
         viewBox: "0 0 144 96",
         toString: function() {
             return this.view
@@ -24665,8 +24665,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-statful-ca03b",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-statful-ca03b",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-statful-ca03b",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-statful-ca03b",
         viewBox: "0 0 192 96",
         toString: function() {
             return this.view
@@ -24674,8 +24674,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-streamamp-d868e",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-streamamp-d868e",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-streamamp-d868e",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-streamamp-d868e",
         viewBox: "0 0 192 96",
         toString: function() {
             return this.view
@@ -24683,8 +24683,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-tui-d6ab2",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-tui-d6ab2",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-tui-d6ab2",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-tui-d6ab2",
         viewBox: "0 0 144 96",
         toString: function() {
             return this.view
@@ -24692,8 +24692,8 @@
     }
 }, function(e, t) {
     e.exports = {
-        symbol: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-tvg-f15ae",
-        view: "/assets/images/tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-tvg-f15ae",
+        symbol: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#tf-tvg-f15ae",
+        view: "tf-svg-sprite.c50a1d512858c390f3e3c7a7027a1362.svg#view-tf-tvg-f15ae",
         viewBox: "0 0 192 96",
         toString: function() {
             return this.view
