@@ -14257,51 +14257,17 @@
         d = r(u);
     n(407);
     var p = [{
-            city: "chennai, in",
-            email: "hello.in@mindera.com",
+            city: "porto, carago!!!",
+            email: "jecabeeda@gmail.com",
             address: {
-                line1: "3-679, Bay View Dr St,",
-                line2: "Valmiki Nagar, Kaveri Nagar, Thiruvanmiyur,",
-                line3: "Chennai, Tamil Nadu 600041, India"
-            }
-        }, {
-            city: "porto, pt",
-            email: "hello.pt@mindera.com",
-            address: {
-                line1: "Rua Gonçalo Cristóvão 347 – s404",
-                line2: "4000-270 Porto, Portugal"
-            }
-        }, {
-            city: "leicester, uk",
-            email: "hello.uk@mindera.com",
-            address: {
-                line1: "2nd Floor, Premier House,",
-                line2: "29 Rutland Street,",
-                line3: "LE1 1RE, United Kingdom"
-            }
-        }, {
-            city: "san diego, us",
-            email: "hello.us@mindera.com",
-            address: {
-                line1: "600 B Street Suite 1400",
-                line2: "San Diego CA 92101, US"
+                line1: "I live on Porto",
+                line2: "So I guess if you want I could pass through your office",
+                line3: "See you :-)"
             }
         }],
         f = [{
-            name: "Facebook",
-            link: "https://www.facebook.com/minderasoftwarecraft"
-        }, {
-            name: "Twitter",
-            link: "https://twitter.com/minderaswcraft"
-        }, {
             name: "LinkedIn",
-            link: "https://www.linkedin.com/company/mindera"
-        }, {
-            name: "YouTube",
-            link: "https://www.youtube.com/c/MinderaSoftware"
-        }, {
-            name: "Instagram",
-            link: "https://www.instagram.com/minderasoftwarecraft/"
+            link: "https://www.linkedin.com/in/jecabeda"
         }],
         m = function(e) {
             function t() {
@@ -24113,8 +24079,8 @@
                         style: {
                             fontStyle: "italic"
                         }
-                    }, "Interested in working with us? "), c.default.createElement(m.default, {
-                        text: "Contact us",
+                    }, "I'm definitely interested in working with you. I just copied your website! "), c.default.createElement(m.default, {
+                        text: "Please contact me",
                         style: {
                             margin: "12px"
                         },
@@ -24807,7 +24773,7 @@
                         className: "banner-content"
                     }, c.default.createElement("h1", {
                         className: "banner-title"
-                    }, "I'm not sure who these guy is but I'd like to be one of your people (Without the love part) "), c.default.createElement(p.default, {
+                    }, "Hi there! I'm José Cabeda and I'd love if you'd consider me to join your team "), c.default.createElement(p.default, {
                         text: "Learn More",
                         className: "inverse",
                         onClick: function() {
@@ -24976,14 +24942,14 @@
                     className: "section-header"
                 }, c.default.createElement("h1", null, "We're Hiring"), c.default.createElement("div", {
                     className: "section-sub-header"
-                }, "Here at Mindera, we are continuously developing a fantastic team, and would love it for you to ", this.props.jobs.length ? " join us" : c.default.createElement("a", {
+                }, "In the end I'd love to be a part of your team. So... Would you give me an interview? ", this.props.jobs.length ? "" : c.default.createElement("a", {
                     style: {
                         color: "#FFF"
                     },
                     href: "https://minderacraft.workable.com/",
                     rel: "noopener noreferrer",
                     target: "_blank"
-                }, "join us"), ".")), this.props.jobs.length ? this.renderJobsList(e) : null, c.default.createElement("div", {
+                }, "join us"), "")), this.props.jobs.length ? this.renderJobsList(e) : null, c.default.createElement("div", {
                     className: "section-footer"
                 }, c.default.createElement("span", {
                     style: {
@@ -25096,16 +25062,16 @@
         h = r(m);
     n(563);
     var g = [{
-            title: "technology development and consultancy",
-            summary: "Rapidly expand your engineering teams by using our on-site and remote services. We can build complete software delivery teams to tailor your specific needs, be it a specific technology or development process.",
+            title: "Frontend",
+            summary: "I've worked from jQuery to Angular and have done some basic projects on React. It's not much but the more I read and write the more I fall in love with the open source way of doing things (Big fan of Quincy Larson and Sean Larkin)",
             path: "technology-development-and-consultancy"
         }, {
-            title: "product development",
-            summary: "We have the capability to build and operate products by taking ideas all the way from concept through design, architecture, development and production operation and maintenance.",
+            title: "Team work",
+            summary: "From the times I have been on the scouts I've learned some things from the pain someone can be to the potencial it can bring. I want to learn everything I can from others and maybe later help bring the full potencial of others. ",
             path: "product-development"
         }, {
-            title: "performance testing and scalability",
-            summary: "Use our performance testing process to exercise your applications and simulate peak loads. Through the testing process, we’ll help isolate and resolve bottlenecks to ensure your system is scaled appropriately and can handle peak loads.",
+            title: "Data Science",
+            summary: "Although until now I have mainly been working as a full stack Developer I have found a great interest in this area. I've done some data mining projects but currently I consider this as an hobby that one day I could apply to what I do",
             path: "performance-testing-and-scalability"
         }],
         b = function(e) {
@@ -25145,8 +25111,8 @@
                         style: {
                             fontStyle: "italic"
                         }
-                    }, "By the way, we're hiring."), c.default.createElement(f.default, {
-                        text: "Join us",
+                    }, "Wanna hire me?"), c.default.createElement(f.default, {
+                        text: "Hire him",
                         style: {
                             margin: "12px"
                         },
